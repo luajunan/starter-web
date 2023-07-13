@@ -12,6 +12,7 @@ Sample website with plenty of files for demos
 
 Blah Blah
 ## How To Contribute
+Please fork this repo and then issue pull requests for review
 
 ## Copyright
 2014 Git.Training
